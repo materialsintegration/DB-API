@@ -18,7 +18,7 @@ DB-APIセットアップ手順
 関連ソース
 ==================================================
 
-<https://gitlab.mintsys.jp/midev/db-api-/tree/master/setup/deploy>
+<https://github.com/materialsintegration/DB-API/blob/master/setup/deploy/v1.0.zip>
 
 .. csv-table::
     :header: ファイル, 内容
