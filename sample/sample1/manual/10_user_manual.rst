@@ -45,13 +45,13 @@ DB-API 利用手順1
 | 以下データ取得例
 
 (json形式)
-.. image:: DB-API_sample1_img01.jpg
+.. figure:: DB-API_sample1_img01.jpg
     :scale: 80%
     :align: center
 
 
 (csv形式)
-.. image:: DB-API_sample1_img03.jpg
+.. figure:: DB-API_sample1_img03.jpg
     :scale: 80%
     :align: center
 
