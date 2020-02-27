@@ -45,7 +45,8 @@ DB-API 利用手順1
 | 以下データ取得例
 
 (json形式)
-.. figure:: DB-API_sample1_img01.jpg
+
+.. figure:: https://github.com/materialsintegration/DB-API/edit/master/sample/sample1/manual/DB-API_sample1_img01.jpg
     :scale: 80%
     :align: center
 
