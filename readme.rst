@@ -24,14 +24,14 @@ DB-API
 
 
 | ここではいくつかの検索ロジックをDB-APIに組み込んでいる。
-| それらにsample1から3について個別に説明している。
+| それらにsample1から5について個別に説明している。
 
 
 
 詳細
 ==================================================
 
-| 各sample1～3の説明を参照のこと。
+| 各sample1～5の説明を参照のこと。
 
 <https://github.com/materialsintegration/DB-API/tree/master/sample>
 
