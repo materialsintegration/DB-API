@@ -31,7 +31,7 @@ DB-API
 詳細
 ==================================================
 
-| 各sample1～5の説明を参照のこと。
+| 各sample1～6の説明を参照のこと。
 
 <https://github.com/materialsintegration/DB-API/tree/master/sample>
 
